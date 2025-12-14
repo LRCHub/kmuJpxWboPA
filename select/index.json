@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "フリージア",
+  "base_artist": "マルシィ",
+  "createdAt": "2025-12-14T02:12:24.627281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/01_フリージア_Uru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/02_フリージア_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フリージア Self-cover ver.",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_フリージア_Self-cover_ver._Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "04.フリージア Self-cover ver.",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/04_04.フリージア_Self-cover_ver._Uru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フリージア Self-cover ver. - Freesia (Self-Cover Version)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_フリージア_Self-cover_ver._-_Freesia_(Self-Cover_Version)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フリージア Karma Edit",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/06_フリージア_Karma_Edit_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "ART-SCHOOL",
+      "has_synced": true,
+      "path": "select/07_フリージア_ART-SCHOOL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_フリージア_Uru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フリージア Karma Edit",
+      "artist": "ムック",
+      "has_synced": true,
+      "path": "select/09_フリージア_Karma_Edit_ムック.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "Ushio Kou",
+      "has_synced": true,
+      "path": "select/10_フリージア_Ushio_Kou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "ギルガメッシュ",
+      "has_synced": true,
+      "path": "select/11_フリージア_ギルガメッシュ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "フリージア",
+      "artist": "Hiroko Moriguchi & Satoru Shionoya",
+      "has_synced": true,
+      "path": "select/12_フリージア_Hiroko_Moriguchi_&_Satoru_Shionoya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フリージア",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_フリージア_マルシィ.txt"
+    }
+  ]
+}
